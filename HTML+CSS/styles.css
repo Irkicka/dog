@@ -1,0 +1,16 @@
+h1 { color: green; }
+h3 { color: blue; }
+body {
+  background-color: lightgreen; }
+  .my-image {
+  border: 5px solid darkgreen;  
+  border-radius: 10px; }
+  h1 {
+  font-family: 'Courier New', monospace;
+cursor: pointer; }	
+.ten {color: violet;}
+.my-image {
+  display: block;
+  margin-left: 30px;
+  margin-right: auto;
+  width: 300px; }
